@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<repertoire>
+  <!-- John DOE -->
+  <personne sexe="masculin">
+ 
+    <telephones>
+      <gouv type="fixe">01 02 03 04 05</gouv>
+      <gouv type="portable">06 07 08 09 10</gouv>
+    </telephones>
+     <telephones>
+      <gouv type="fixe">01 02 03 04 05</gouv>
+      <gouv type="portable">06 07 08 09 10</gouv>
+    </telephones>
+  </personne>
+</repertoire>
